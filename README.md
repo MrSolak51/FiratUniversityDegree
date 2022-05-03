@@ -1,0 +1,2 @@
+# FiratUniversityDegree
+ /Türkçe/Eğer ki uygulamaya vize notunu girerseniz size sınıfı geçmek için kaç puan almanız gerektiğini, iki notu birden girerseniz geçip geçmediğinizi gösterecektir. Aynı zamanda bunları bir txt dosyasına kaydedecektir. /english/if you give to the app your midterm exam score, it says you how many score should you get on the final exam for pass to the class.  İf you give to it both score, it says did you pass the class.   By the way it save they to a txt file.
