@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Cp1254" standalone="no"?>
+<jardesc>
+    <jar path="ananasdf/jarx/notlar.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ananasdf/JarBuild.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=ananasdf/src&lt;{Notlar.java[Notlar" manifestLocation="/ananasdf/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/ananasdf/.project"/>
+        <javaElement handleIdentifier="=ananasdf/src"/>
+        <file path="/ananasdf/.classpath"/>
+    </selectedElements>
+</jardesc>
